@@ -38,4 +38,4 @@ I have learned to better manipulate JS and I have deepened my understanding of h
 ## Author
 
 - Website - [IrinaKrdmva](https://irinakrdmva.pt)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IrinaKrdmva)
+- Frontend Mentor - [@IrinaKrdmva](https://www.frontendmentor.io/profile/IrinaKrdmva)
